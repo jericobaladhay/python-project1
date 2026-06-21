@@ -1,6 +1,5 @@
 """
 point02_permutation.py
-DR. RAGA POINT 2: Statistical Validity via Permutation Testing
 
 Addresses concern about inflated p-values from train-test split.
 Shuffles target N=1000 times and shows actual model R squared exceeds
