@@ -1,7 +1,6 @@
 """
 AIPPMPS Dissertation Revisions — Master Analysis Script
-Addresses reviewer points 1, 2, 4, 7, 8, 11 in a single, consistent pipeline.
-Author: built for Jerico / Gamido revision package
+
 """
 import numpy as np
 import pandas as pd
