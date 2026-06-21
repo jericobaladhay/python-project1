@@ -1,6 +1,5 @@
 """
 point03_vif.py
-DR. RAGA POINT 3: VIF as Pre-Modeling Diagnostic
 
 Reports Variance Inflation Factor BEFORE modeling, not as post-hoc
 justification. VIF screens for multicollinearity in predictors.
