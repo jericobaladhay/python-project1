@@ -1,6 +1,6 @@
 """
 point11_baseline.py
-DR. RAGA POINT 11 (CRITICAL): OLS Baseline Comparison
+
 
 Tests whether SDCA provides meaningful improvement over a simpler
 OLS baseline trained on the same preprocessed data. Also includes
