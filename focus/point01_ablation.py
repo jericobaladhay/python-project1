@@ -1,6 +1,5 @@
 """
 point01_ablation.py
-DR. RAGA POINT 1: Data Preprocessing Transparency
 
 Proves performance comes from legitimate data quality improvements,
 not from hidden preprocessing artifacts. Tests SDCA at three preprocessing
