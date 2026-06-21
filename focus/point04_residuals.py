@@ -1,6 +1,5 @@
 """
 point04_residuals.py
-DR. RAGA POINT 4: Residual Diagnostic Analysis
 
 Tests whether model residuals satisfy independence, homoscedasticity,
 and normality assumptions. Reports Durbin-Watson, Breusch-Pagan,
