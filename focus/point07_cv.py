@@ -1,6 +1,5 @@
 """
 point07_cv.py
-DR. RAGA POINT 7 (CRITICAL): 10-Fold Cross-Validation
 
 Replaces single 80/20 split validation with robust 10-fold CV.
 Reports mean and standard deviation across folds. Low SD indicates
